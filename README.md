@@ -110,5 +110,10 @@ Start the FastAPI server using:
 python -m uvicorn app.main:app --reload
 ```
 
+Step 4: Access the Application
+Once the server starts, open your browser and go to:
+```
+http://127.0.0.1:8000
+```
 
 
