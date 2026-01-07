@@ -83,3 +83,32 @@ This repository should be used primarily for **understanding the system design a
 ---
 
 This approach allows the project to remain **accessible, transparent, and reproducible**, while respecting platform constraints.
+
+
+---
+
+## ▶️ How to Run the Project
+
+To run the project locally, follow the steps below.
+
+### Step 1: Set up the Groq API Key  
+This project requires a **Groq API key** for LLM inference. Generate an API key from the Groq dashboard and set it as an environment variable.
+
+```
+GROQ_API_KEY="your_groq_api_key_here"
+```
+
+### Step 2: Install Dependencies
+Ensure Python 3.9 or higher is installed, then run:
+```
+pip install fastapi uvicorn sqlalchemy jinja2 python-multipart chromadb sentence-transformers groq sounddevice numpy openai-whisper
+```
+
+### Step 3: Run the Application
+Start the FastAPI server using:
+```
+python -m uvicorn app.main:app --reload
+```
+
+
+
