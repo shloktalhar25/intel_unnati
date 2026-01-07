@@ -21,8 +21,10 @@ If facing any issues accessing the files , connect with us : work.shloktalhar25@
 This project is an **AI-powered Retrieval-Augmented Generation (RAG) system** designed specifically for **NCERT students from Class 5 to Class 10**.  
 It assists students with **book-related questions and conceptual learning**, ensuring that responses are **class-appropriate and syllabus-aligned**.
 ---
-**Demo** — https://1drv.ms/f/c/56e76aa22cb64c2c/IgBONfOLSNKyT656xSdZz6tJAYhPB0nYQaahCTijE0E331M?e=lJIg2T 
----
+## Demo/Proof
+
+https://1drv.ms/f/c/56e76aa22cb64c2c/IgBONfOLSNKyT656xSdZz6tJAYhPB0nYQaahCTijE0E331M?e=lJIg2T
+--
 ##  Design Motivation
 
 A common issue with educational RAG systems is the use of a **single vector database for all grades**, which can result in concept explanations that are **academically misaligned** with the student’s class level.
