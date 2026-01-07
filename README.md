@@ -99,7 +99,7 @@ GROQ_API_KEY="your_groq_api_key_here"
 ```
 
 ### Step 2: Install Dependencies
-Ensure Python 3.9 or higher is installed, then run:
+Ensure Python 3.10 or 3.11 is installed, then only the file would run, python 3.14 would give errors:
 ```
 pip install fastapi uvicorn sqlalchemy jinja2 python-multipart chromadb sentence-transformers groq sounddevice numpy openai-whisper
 ```
