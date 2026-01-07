@@ -3,8 +3,8 @@
 The complete project package is approximately **1.3 GB in size**, which exceeds GitHub’s recommended repository limits for standard uploads.  
 For this reason, the **full runnable version of the project is hosted externally** and is available through the links below:
 
--  **OneDrive** — https://1drv.ms/f/c/56e76aa22cb64c2c/IgDO9bOEfJoMQ7P5c4YBIG54AVMRFf4kMBcmJNTTJO_RNJ0?e=k26fWZ (original structure)
--  **Google Drive** — Zipped archive of the complete project
+-  **OneDrive** — (original structure) https://1drv.ms/f/c/56e76aa22cb64c2c/IgDO9bOEfJoMQ7P5c4YBIG54AVMRFf4kMBcmJNTTJO_RNJ0?e=k26fWZ 
+-  **Google Drive** — Zipped archive of the complete project : https://drive.google.com/file/d/1FlcV-nYwqbtcZ2oDmN7QST_evw4RH7p-/view
 ```
 If facing any issues accessing the files , connect with us : work.shloktalhar25@gmail.com
 ```
