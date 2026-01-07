@@ -4,6 +4,7 @@ The complete project package is approximately **1.3 GB in size**, which exceeds 
 For this reason, the **full runnable version of the project is hosted externally** and is available through the links below:
 
 
+- **Alternate repository using github lfs** — https://github.com/Vishwesh2110/projFiles
 -  **OneDrive** — (original structure) https://1drv.ms/f/c/56e76aa22cb64c2c/IgDO9bOEfJoMQ7P5c4YBIG54AVMRFf4kMBcmJNTTJO_RNJ0?e=k26fWZ 
 -  **Google Drive** — Zipped archive of the complete project : https://drive.google.com/file/d/1FlcV-nYwqbtcZ2oDmN7QST_evw4RH7p-/view
 -  **Demo** — https://1drv.ms/f/c/56e76aa22cb64c2c/IgBONfOLSNKyT656xSdZz6tJAYhPB0nYQaahCTijE0E331M?e=lJIg2T 
